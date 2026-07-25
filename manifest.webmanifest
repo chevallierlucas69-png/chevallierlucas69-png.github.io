@@ -1,0 +1,18 @@
+{
+  "name": "NIGHTCORE Chromebook",
+  "short_name": "NIGHTCORE",
+  "description": "L’édition Chromebook tactile de NIGHTCORE LAUNCHER.",
+  "start_url": "/chromebook.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#070a12",
+  "theme_color": "#070a12",
+  "icons": [
+    {
+      "src": "/game-launcher-icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
