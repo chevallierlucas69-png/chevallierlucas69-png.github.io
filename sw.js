@@ -1,4 +1,4 @@
-const CACHE = "nightcore-chromebook-v3";
+const CACHE = "nightcore-chromebook-v4";
 const APP_SHELL = ["/chromebook.html", "/manifest.webmanifest", "/nightcore-192.png", "/nightcore-512.png"];
 
 self.addEventListener("install", event => {
