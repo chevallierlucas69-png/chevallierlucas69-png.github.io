@@ -1,3 +1,3 @@
 :HL["/_next/static/chunks/2m7_nbp1ry6rv.css","style"]
 :HL["/game-launcher-icon.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"eykKpKNt_0YyQmthZGIB0"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"I3Bea0U1fsiwcsMPUbRJu"}
