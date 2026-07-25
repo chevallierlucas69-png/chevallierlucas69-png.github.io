@@ -1,5 +1,5 @@
-const CACHE = "nightcore-chromebook-v2";
-const APP_SHELL = ["/chromebook.html", "/manifest.webmanifest", "/game-launcher-icon.png"];
+const CACHE = "nightcore-chromebook-v3";
+const APP_SHELL = ["/chromebook.html", "/manifest.webmanifest", "/nightcore-192.png", "/nightcore-512.png"];
 
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(APP_SHELL)));

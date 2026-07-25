@@ -9,8 +9,14 @@
   "theme_color": "#070a12",
   "icons": [
     {
-      "src": "/game-launcher-icon.png",
-      "sizes": "any",
+      "src": "/nightcore-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/nightcore-512.png",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
